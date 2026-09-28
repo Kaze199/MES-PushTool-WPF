@@ -1,0 +1,10 @@
+d:\MES\obj\Release\MESPushTool.csprojResolveAssemblyReference.cache
+d:\MES\obj\Release\MainWindow.baml
+d:\MES\obj\Release\MainWindow.g.cs
+d:\MES\obj\Release\App.g.cs
+d:\MES\obj\Release\MESPushTool_MarkupCompile.cache
+d:\MES\obj\Release\MESPushTool.g.resources
+d:\MES\bin\Release\MESPushTool.exe
+d:\MES\bin\Release\MESPushTool.pdb
+d:\MES\obj\Release\MESPushTool.exe
+d:\MES\obj\Release\MESPushTool.pdb

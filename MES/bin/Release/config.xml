@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<AppConfig xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <MesUrl>http://127.0.0.1:8021/MES_WS.asmx</MesUrl>
+  <Token>HQMESSMT@2025</Token>
+  <WsType>POST</WsType>
+  <WsNo>7687</WsNo>
+  <OutDataType />
+  <WorkOrder>hdyfui123456</WorkOrder>
+  <CommMode>Serial</CommMode>
+  <SerialPortName>COM2</SerialPortName>
+  <SerialBaudRate>19200</SerialBaudRate>
+  <SerialDataBits>8</SerialDataBits>
+  <SerialParity>None</SerialParity>
+  <SerialStopBits>One</SerialStopBits>
+  <TcpPort>8080</TcpPort>
+</AppConfig>
